@@ -5,12 +5,15 @@ This python project is an implementation of RadicalX's Squad Matching Algorithm.
 ## Team/Contributors
 
 Parth Patel
-Savion Johnson
-Alam Zishan
-Nathan Tran
-Navjot Sandhu
-Ray Huang
-Vishal Patel
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Savion Johnson
+
+Alam Zishan
+
+Nathan Tran
+
+Navjot Sandhu
+
+Ray Huang
+
+Vishal Patel
